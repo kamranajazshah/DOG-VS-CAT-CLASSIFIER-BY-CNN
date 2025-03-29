@@ -1,7 +1,4 @@
-# DOG-VS-CAT-CLASSIFIER-BY-CNN
-Here’s a sample **README** file for your **Cat-Dog Classifier using CNN (2D)**. You can adjust it based on your specific implementation and personal style:
 
----
 
 # Cat vs Dog Classifier using Convolutional Neural Network (CNN)
 
